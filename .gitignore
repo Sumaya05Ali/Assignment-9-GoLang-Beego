@@ -1,0 +1,6 @@
+# Executable files
+beeproject.exe
+beeproject.exe~
+
+# Coverage report
+coverage.out
